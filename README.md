@@ -1,12 +1,59 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Password Generator
 
-Currently, two official plugins are available:
+![Languages](https://img.shields.io/github/languages/top/Smitgajera10/Password-Genrator)
+![License](https://img.shields.io/github/license/Smitgajera10/Password-Genrator)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
 
-## Expanding the ESLint configuration
+Password Generator is a simple web application that allows users to generate strong, random passwords. This tool is built using JavaScript, CSS, and HTML, and is designed to help users create secure passwords that enhance their online security.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Generate passwords of varying lengths
+- Include uppercase, lowercase, numbers, and special characters
+- Copy generated password to clipboard
+- Simple and clean user interface
+
+## Getting Started
+
+### Prerequisites
+
+To run this application, you'll need a web browser.
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Smitgajera10/Password-Genrator.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd Password-Genrator
+   ```
+3. Open `index.html` in your web browser to start using the Password Generator.
+
+## Usage
+
+1. Open the application in your web browser.
+2. Adjust the settings as needed (length of password, character types).
+3. Click the "Generate Password" button to create a new password.
+4. Use the "Copy to Clipboard" button to copy the password for use.
+
+## Contributing
+
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries or feedback, please contact [Smit Gajera](https://github.com/Smitgajera10).
